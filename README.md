@@ -20,6 +20,7 @@
 
 #### Back-end:
 - NodeJS
+- Express
 - Postgres
 - Sequelize
 - PassportJS
