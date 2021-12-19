@@ -1,23 +1,27 @@
 ![logop5](https://p5-hall-of-fame.s3.amazonaws.com/p5logo.png)
 
-# 25 - OMDB
+# OMDB - Buscador de películas
 
-### Must have.
+### Características y funcionalidades implementadas:
 
-- Buscar películas y listarlas.
+- Buscar películas en una API (www.omdbapi.com) y listarlas.
 - Poder ver los detalles de una película en particular.
 - Crear Usuarios.
 - Loggearse y desloggearse con un usuario.
+- Agregar una película a lista de favoritos.
+- Ver lista de películas favoritas.
+- Poder sacar películas de lista de favoritos.
 
-### Should have.
+### Tecnologías utilizadas:
+#### Front-end:
+- React
+- Redux
+- Bulma
 
-- Poder agregar una película a tu lista de favoritos.
-- Ver tu lista de películas favoritas.
-- Poder sacar películas de tu lista de favoritos.
+#### Back-end:
+- NodeJS
+- Postgres
+- Sequelize
+- PassportJS
 
-### Nice to have.
 
-- Buscar Usuarios.
-- Ver el perfil de un usuario con sus películas favoritas.
-
-Para más información busquen en [Pledu](https://pledu.plataforma5.la/modules/e2b1ace6-8de6-4b10-a025-647583402a8a)
